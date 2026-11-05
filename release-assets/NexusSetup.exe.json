@@ -1,0 +1,28 @@
+{
+  "version": "2.2.0",
+  "identifier": "com.nexus.launcher",
+  "productName": "Nexus Launcher",
+  "manufacturer": "nexus",
+  "executable": "nexus-launcher.exe",
+  "payloadSha256": "b6e013ed6103de6bd7fb183c8dd4dd15ed0a1a032caac47f4f69972cc8c165f6",
+  "payloadBytes": 23608182,
+  "files": [
+    {
+      "path": "nexus-launcher.exe",
+      "sha256": "962bc50e215e37ea026ed6b8788ac75e32dc3299221460e879993294330939f0",
+      "bytes": 44803072
+    },
+    {
+      "path": "music/README.txt",
+      "sha256": "b09a8c9489a685e987be00cf6a846cd9b716f5ce0dc514a5d41ac92c20420f23",
+      "bytes": 268
+    }
+  ],
+  "installedBytes": 44803340,
+  "sourceSha256": "27462d5e2541404ce5b868a0ba5e9687d3de026ce1e960acb529d2832210e927",
+  "sourceFormat": 2,
+  "builtAt": "2026-11-05T21:36:53.794Z",
+  "testPackage": false,
+  "setupSha256": "b9b92c665fa34143c9eb5569a2537abf3313968e4099f07fe586c526b9b87949",
+  "setupBytes": 42440192
+}
