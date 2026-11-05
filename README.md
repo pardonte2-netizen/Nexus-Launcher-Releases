@@ -9,9 +9,9 @@
     <img alt="Minecraft Java Edition" src="https://img.shields.io/badge/Minecraft-Java%20Edition-42a66c">
   </p>
   <p>
-    <a href="https://github.com/pardonte2-netizen/-Nexus-Launcher/releases/tag/v2.2.0"><strong>Скачать Nexus Launcher 2.2.0</strong></a>
+    <a href="https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/releases/tag/v2.2.0"><strong>Скачать Nexus Launcher 2.2.0</strong></a>
     · <a href="README_EN.md">English</a>
-    · <a href="https://github.com/pardonte2-netizen/-Nexus-Launcher/issues/new/choose">Сообщить об ошибке</a>
+    · <a href="https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/issues/new/choose">Сообщить об ошибке</a>
   </p>
 </div>
 
@@ -46,7 +46,7 @@ Nexus Launcher объединяет библиотеку сборок Minecraft 
 
 ## Установка
 
-1. Откройте [релиз Nexus Launcher 2.2.0](https://github.com/pardonte2-netizen/-Nexus-Launcher/releases/tag/v2.2.0) и скачайте `NexusSetup.exe`.
+1. Откройте [релиз Nexus Launcher 2.2.0](https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/releases/tag/v2.2.0) и скачайте `NexusSetup.exe`.
 2. При необходимости скачайте рядом `NexusSetup.exe.sha256` и сравните хеш. В PowerShell выполните:
 
    ```powershell
@@ -119,7 +119,7 @@ Nexus Launcher объединяет библиотеку сборок Minecraft 
 
 ## Сообщить об ошибке
 
-Создайте [Bug Report](https://github.com/pardonte2-netizen/-Nexus-Launcher/issues/new/choose). Не публикуйте пароли, токены авторизации, полные конфигурации аккаунта и неочищенные журналы. Сведения о потенциальной уязвимости отправляйте приватно через доступную на странице репозитория форму GitHub Security Advisory.
+Создайте [Bug Report](https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/issues/new/choose). Не публикуйте пароли, токены авторизации, полные конфигурации аккаунта и неочищенные журналы. Сведения о потенциальной уязвимости отправляйте приватно через доступную на странице репозитория форму GitHub Security Advisory.
 
 ## История обновлений
 

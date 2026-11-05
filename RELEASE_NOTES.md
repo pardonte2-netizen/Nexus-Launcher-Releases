@@ -4,7 +4,7 @@ Nexus Launcher 2.2.0 adds a guided Workshop for preparing Minecraft instances, b
 
 ## Download
 
-Download `NexusSetup.exe` from the [v2.2.0 GitHub release](https://github.com/pardonte2-netizen/-Nexus-Launcher/releases/tag/v2.2.0). The release includes the installer, its JSON manifest, and a SHA-256 file.
+Download `NexusSetup.exe` from the [v2.2.0 GitHub release](https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/releases/tag/v2.2.0). The release includes the installer, its JSON manifest, and a SHA-256 file.
 
 SHA-256:
 

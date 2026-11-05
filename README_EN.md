@@ -9,9 +9,9 @@
     <img alt="Minecraft Java Edition" src="https://img.shields.io/badge/Minecraft-Java%20Edition-42a66c">
   </p>
   <p>
-    <a href="https://github.com/pardonte2-netizen/-Nexus-Launcher/releases/tag/v2.2.0"><strong>Download Nexus Launcher 2.2.0</strong></a>
+    <a href="https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/releases/tag/v2.2.0"><strong>Download Nexus Launcher 2.2.0</strong></a>
     · <a href="README.md">Русская версия</a>
-    · <a href="https://github.com/pardonte2-netizen/-Nexus-Launcher/issues/new/choose">Report a bug</a>
+    · <a href="https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/issues/new/choose">Report a bug</a>
   </p>
 </div>
 
@@ -46,7 +46,7 @@ Setup screenshots: [welcome screen](assets/setup-welcome.png) and [showcase scen
 
 ## Install
 
-1. Open the [Nexus Launcher 2.2.0 release](https://github.com/pardonte2-netizen/-Nexus-Launcher/releases/tag/v2.2.0) and download `NexusSetup.exe`.
+1. Open the [Nexus Launcher 2.2.0 release](https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/releases/tag/v2.2.0) and download `NexusSetup.exe`.
 2. Optionally download `NexusSetup.exe.sha256` and compare the hash. In PowerShell, run:
 
    ```powershell
@@ -119,7 +119,7 @@ Include the launcher, Minecraft, and loader versions, the steps that reproduce t
 
 ## Report a bug
 
-Open a [Bug Report](https://github.com/pardonte2-netizen/-Nexus-Launcher/issues/new/choose). Do not post passwords, authentication tokens, full account configuration, or unredacted logs. Report suspected vulnerabilities privately through the GitHub Security Advisory form available on the repository, if enabled.
+Open a [Bug Report](https://github.com/pardonte2-netizen/Nexus-Launcher-Releases/issues/new/choose). Do not post passwords, authentication tokens, full account configuration, or unredacted logs. Report suspected vulnerabilities privately through the GitHub Security Advisory form available on the repository, if enabled.
 
 ## Update history
 
